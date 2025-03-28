@@ -12,7 +12,7 @@
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
 
-@import url('https://github.com/refact0r/midnight-discord/blob/master/archive/midnight.theme.css');
+@import url('https://raw.githubusercontent.com/refact0r/midnight-discord/refs/heads/master/archive/midnight.css');
 
 /* customize things here */
 :root {
